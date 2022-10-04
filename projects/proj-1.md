@@ -2,6 +2,19 @@
 layout: post
 title: 'CRUD'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+첫 팀 프로젝트 에서 처음으로 3명의 팀원과 함께하는 팀장을 맡았습니다.
+
+프로젝트의 목적은 간단한 CRUD 였으며, JS 로 프론트를 구축하는 작업을 저에게 할당했습니다.
+
+다만, 팀장으로서 역할 부재로 인해, 일정이 밀리게 되었고 좋은 퀄리티가 나오지 못했습니다.
 
 {% include image="projects/proj-1/crud1.png" %}
+nodeJS 로 front,back 을 구축해 작업했습니다.
+
+첫 CRUD 였던 만큼 퀄리티도 부족했고,
+
+로그인/로그아웃, 회원가입, 기능은 완벽했지만,
+
+저의 팀장 역할의 부재로 프로젝트 일정을 못 맞춰서,
+
+게시판 기능은 부족한 상태로 마무리하게 되었습니다.
