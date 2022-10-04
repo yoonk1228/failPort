@@ -19,6 +19,13 @@ projects:
 
 
 #-------------------------------
+# About Section
+
+about:
+- { name: '김윤재',  url: '#' }
+
+
+  #-------------------------------
 # Contact Section
 
 social:

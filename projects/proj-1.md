@@ -11,7 +11,7 @@ title: 'CRUD'
 
 다만, 팀장으로서 역할 부재로 인해, 일정이 밀리게 되었고 좋은 퀄리티가 나오지 못했습니다.
 
-{% include image="projects/proj-1/crud1.png" %}
+{% include image.html image="projects/proj-1/crud1.png" %}
 
 nodeJS 로 front,back 을 구축해 작업했습니다.
 
