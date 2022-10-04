@@ -1,0 +1,32 @@
+.about-unit
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+  display: block
+  width: 600px
+  border-radius: 50%
+  height: 300px
+  margin: 0px auto 30px
+  position: relative
+  overflow: hidden
+  background:
+    position: center center
+    repeat: no-repeat
+    size: cover
+  .about-overlay
+    +position(absolute, 100% 0px null 0px)
+    height: 100%
+    background: fade-out(#333, 0.5)
+    text-align: center
+    //+transition
+    +display(flex)
+    +align-items(center)
+    +justify-content(space-around)
+    strong
+      display: block
+      padding: 20px
+      color: white
+      line-height: 1.2
+      font:
+        size: 24px
+        weight: 300
+  &:hover .about-overlay
+    +position(absolute, 0px 0px null 0px)

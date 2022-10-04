@@ -22,14 +22,14 @@ projects:
 # About Section
 
 about:
-- { name: '김윤재',  url: '#' }
+- { name: '김윤재',  url: 'https://github.com/yoonk1228' }
 
 
-  #-------------------------------
+#-------------------------------
 # Contact Section
 
 social:
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'github',    link: 'https://github.com/yoonk1228'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
