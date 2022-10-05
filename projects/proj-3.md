@@ -3,8 +3,44 @@ layout: post
 title: '개발자 키우기'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+## 세번째 프로젝트는 특별한 경험이었습니다.
+
+[핸드폰 어플 출시를 목적](#)으로 시작했습니다.
+
+쿠키클리커를 베이스로 한 게임을 디자인했습니다.
+
+직접 비트맵으로 도트를 찍어가며 소스를 제작해,
+
+실제 게임을 만드는 과정을 팀원 모두가 경험해 보는 좋은 기회였습니다.
+
+{% include image.html image="projects/proj-3/gaeki3.png" %}
 
 {% include image.html image="projects/proj-3/gaeki1.png" %}
 
+터치 (클릭) 시 자동으로 골드와 경험치 를 획득하고, 이 진행사항을 mysql 에 저장 시켰습니다.
+
+이렇게 획득한 골드로는 주변 배경 사물, 인물 등 부가요소를 구매할 수 있습니다.
+
+일정 경험치에 도달하면 스테이지가 바뀌며,
+
+따로 페이지를 만들지 않고 react 의 상태값 관리를 통해
+
+해당 아이템 및 소스들이 변경되도록 했습니다.
+
 {% include image.html image="projects/proj-3/gaeki2.png" %}
+
+[aws 배포](#) 후 도메인 구매로 실제 웹 사이트를 구축 했을때의 뿌듯함을 알 수 있었고,
+
+비록 위의 웹 사이트 url 을 접속만 하도록 작은 기능 하나를 위해서,
+
+[expo](#) 로 .aab 빌드 한건 아쉬웠지만,
+
+플레이 스토어에 직접 어플로 등록 되고 핸드폰으로 검색까지 가능 했던 경험은
+
+스스로를 우쭐거리게 만들기 충분했습니다.
+
+다만, [mvc 패턴](#)으로 프론트를 구축하지 못한 것이 아쉬웠습니다.
+
+패턴이 정해져 있지 않아서 협업시 불편함이 존재했습니다.
+
+이는 다음 프로젝트 (NFTunes) 에 해소되었습니다.

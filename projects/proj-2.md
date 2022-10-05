@@ -3,6 +3,20 @@ layout: post
 title: '존버 가자'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+## 두번째 팀 프로젝트 에서도 팀장을 맡게 되었습니다.
+
+팀장이라는 무게를 여전히 안고 가면서 팀 단위 작업에 팀장이 무엇을 하는지 알게 됐습니다.
+
+프로젝트 내용으로는 웹소켓 통신으로 [업비트 api](#) 를 사용함으로서, 
+
+사람들에게 편의성을 제공하는 것이 무엇인지 간접 체험하게 되었습니다.
 
 {% include image.html image="projects/proj-2/johnver1.png" %}
+
+가상화폐를 실시간으로 확인하고, 뜻이 맞는 사람들이 소통할 수 있도록 하는 커뮤니티 사이트를 만드는게 목적이였습니다.
+
+첫 메인화면에서 [kakao api](#) 로 로그인을 하지 않아도, 주요 가상화폐의 시세 를 웹소켓으로 실시간으로 확인할 수 있습니다.
+
+아쉬운 점으로는 두번째 팀장이였음에도 팀원에게 역할을 부여함을 실패하여,
+
+대형 커뮤니티 사이트를 벤치마킹 하려는 시도가 실패한 점이 있습니다.

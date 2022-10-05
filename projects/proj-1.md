@@ -3,9 +3,7 @@ layout: post
 title: 'CRUD'
 ---
 
-첫 팀 프로젝트 
-
-에서 처음으로 3명의 팀원과 함께하는 팀장을 맡았습니다.
+## 첫 팀 프로젝트에서 처음으로 3명의 팀원과 함께하는 팀장을 맡았습니다.
 
 프로젝트의 목적은 간단한 CRUD 였으며, JS 로 프론트를 구축하는 작업을 저에게 할당했습니다.
 
@@ -13,9 +11,7 @@ title: 'CRUD'
 
 {% include image.html image="projects/proj-1/crud1.png" %}
 
-nodeJS 로 front,back 을 구축해 작업했습니다.
-
-첫 CRUD 였던 만큼 퀄리티도 부족했고,
+[nodeJS 로 front,back 을 구축](#)해 작업했습니다.
 
 로그인/로그아웃, 회원가입, 기능은 완벽했지만,
 
